@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1087417155803",
+    "firebase_url": "https://railway-guider.firebaseio.com",
+    "project_id": "railway-guider",
+    "storage_bucket": "railway-guider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087417155803:android:7ae3f39c81f51eb2f54cfe",
+        "android_client_info": {
+          "package_name": "dev.dileepabandara.railwayguider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087417155803-3meju9f6cinbq6g57g9btfbi0s8o01me.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.dileepabandara.railwayguider",
+            "certificate_hash": "c217f54b89c6457b743f2a31ab01f5bd45420e56"
+          }
+        },
+        {
+          "client_id": "1087417155803-ov07l89j3toppa2vinag9n7sn4fkbped.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdqOeVdmW6O5H_XH5cR0f8QRt6p6TxJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087417155803-ov07l89j3toppa2vinag9n7sn4fkbped.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087417155803:android:8d6d347d1badba8cf54cfe",
+        "android_client_info": {
+          "package_name": "dev.dileepabandara.railwayguideradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087417155803-49ak8l1r829v9o4ph69lttpcbvs77dei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.dileepabandara.railwayguideradmin",
+            "certificate_hash": "c217f54b89c6457b743f2a31ab01f5bd45420e56"
+          }
+        },
+        {
+          "client_id": "1087417155803-ov07l89j3toppa2vinag9n7sn4fkbped.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdqOeVdmW6O5H_XH5cR0f8QRt6p6TxJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087417155803-ov07l89j3toppa2vinag9n7sn4fkbped.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='Railway Guider Admin'
+include ':app'
